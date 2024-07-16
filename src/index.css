@@ -9,7 +9,7 @@
     min-height: 100vh;
     background: #ced8ff;
     transition: 0.5s;
-    background-image: url("C:\Users\Sk maurya\OneDrive\Desktop\movie-app\src\assets\back_img.jpg");
+    /* background-image: url("C:\Users\Sk maurya\OneDrive\Desktop\movie-app\src\assets\back_img.jpg"); */
 }
 .container.dark{
     background: #222; 

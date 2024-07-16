@@ -1,0 +1,58 @@
+.footer-main {
+  padding: 2% 6%;
+  background-color: #f8f9fa; /* Changed light to a more specific color */
+}
+
+.footer-table-main {
+  /* background-color: red; */
+  /* margin-top: 10px; */
+  width: 60%;
+}
+
+.footer-table {
+  width: 100%;
+}
+
+td {
+  padding: 5px;
+  text-decoration: underline;
+}
+
+.ft-ul {
+  text-decoration: underline;
+}
+
+.Footer-container {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.chatbot-main {
+  width: 40%;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .Footer-container {
+    display: block; /* Changed to block for better stacking */
+  }
+  .footer-table-main {
+    width: 100%;
+  }
+  .chatbot-main {
+    width: 100%;
+  }
+}
+
+.wh-color {
+  color: white;
+}
+
+.drk-color {
+  color: black;
+}
+
+.footer-bg {
+  background: #222;
+}
